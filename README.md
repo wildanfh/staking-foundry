@@ -4,6 +4,8 @@ A full-stack DeFi staking application built on Base. Users stake **STK** tokens 
 
 **Live Demo:** [staking-foundry-app.netlify.app](https://staking-foundry-app.netlify.app)
 
+![STK Staking App](./image.jpg)
+
 ---
 
 ## Overview
